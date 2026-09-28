@@ -1,0 +1,6 @@
+Prediction_ID,ApplicantIncome,CoapplicantIncome,LoanAmount,Credit_History,Property_Area,Prediction,Approval_Probability
+1,6000,0,140,1,Urban,Approved,0.91
+2,2800,1500,95,0,Rural,Rejected,0.18
+3,5200,1200,155,1,Semiurban,Approved,0.87
+4,2400,800,85,0,Rural,Rejected,0.22
+5,7000,0,200,1,Urban,Approved,0.94
