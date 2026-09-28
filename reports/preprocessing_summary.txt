@@ -1,0 +1,49 @@
+LOAN APPROVAL PREDICTION
+DATA PREPROCESSING SUMMARY
+======================================================================
+
+Original rows: 60
+Original columns: 13
+Duplicate rows removed: 0
+Missing values before cleaning: 0
+Missing values remaining: 0
+Cleaned rows: 60
+Cleaned columns: 21
+
+NUMERICAL FEATURES
+----------------------------------------------------------------------
+- Dependents
+- ApplicantIncome
+- CoapplicantIncome
+- LoanAmount
+- Loan_Amount_Term
+- Credit_History
+- TotalIncome
+- LoanToIncomeRatio
+- ApplicantIncomeLog
+- LoanAmountLog
+- CoapplicantIncomeLog
+- TotalIncomeLog
+- HasCoapplicant
+- HighIncome
+
+CATEGORICAL FEATURES
+----------------------------------------------------------------------
+- Gender
+- Married
+- Education
+- Self_Employed
+- Property_Area
+- LoanAmountCategory
+
+FEATURE ENGINEERING
+----------------------------------------------------------------------
+- TotalIncome
+- LoanToIncomeRatio
+- ApplicantIncomeLog
+- LoanAmountLog
+- CoapplicantIncomeLog
+- TotalIncomeLog
+- HasCoapplicant
+- HighIncome
+- LoanAmountCategory

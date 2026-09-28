@@ -1,0 +1,23 @@
+================================================================================
+LOAN APPROVAL MODEL TRAINING SUMMARY
+================================================================================
+
+Dataset rows: 60
+Number of features: 20
+Training samples: 48
+Testing samples: 12
+
+MODEL PERFORMANCE
+--------------------------------------------------------------------------------
+              Model  Accuracy  Precision  Recall  F1_Score  ROC_AUC
+      Random Forest    1.0000     1.0000  1.0000    1.0000   1.0000
+K-Nearest Neighbors    1.0000     1.0000  1.0000    1.0000   1.0000
+Logistic Regression    0.9167     0.9000  1.0000    0.9474   1.0000
+  Gradient Boosting    0.9167     1.0000  0.8889    0.9412   1.0000
+      Decision Tree    0.8333     0.8889  0.8889    0.8889   0.9259
+
+Selected Model: Random Forest
+Best F1 Score: 1.0000
+
+The selected model is saved in:
+C:\Users\Welcome\Downloads\LOAN_APPROVAL_PREDICTION\models\best_loan_model.pkl
